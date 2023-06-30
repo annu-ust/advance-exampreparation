@@ -18,4 +18,5 @@ public class Hello {
 	  public String status() {
 		  return "Up and Running->>";
 	  }
+	  
 }
